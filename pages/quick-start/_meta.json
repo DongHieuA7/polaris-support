@@ -1,0 +1,8 @@
+{
+  "registration": "Đăng ký",
+  "polaris-do": "Polaris bảo vệ trang web của bạn như thế nào?",
+  "setup-cname": "Thiết lập với Bản ghi CNAME",
+  "setup-ns": "Thiết lập với Nameservers",
+  "ip-addresses": "Địa chỉ IP Polaris",
+  "post-domain-registration": "Các vấn đề về quyền truy cập đăng ký sau tên miền"
+}
