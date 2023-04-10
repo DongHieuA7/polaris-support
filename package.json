@@ -1,0 +1,25 @@
+{
+  "name": "polaris-support",
+  "version": "0.0.1",
+  "description": "Polaris Support",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DongHieuA7/polaris-support.git"
+  },
+  "dependencies": {
+    "next": "^13.3.0",
+    "nextra": "^2.3.0",
+    "nextra-theme-docs": "^2.3.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "18.11.10",
+    "typescript": "^4.9.3"
+  }
+}
